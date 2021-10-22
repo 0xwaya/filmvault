@@ -1,4 +1,4 @@
-# Tranchess Core
+# Tranchess cloned contract
 
 Tranchess core.
 
