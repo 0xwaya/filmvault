@@ -1,4 +1,4 @@
-# Tranchess cloned contract
+# Tranchess cloned contract by wayacoin
 
 Tranchess core.
 
