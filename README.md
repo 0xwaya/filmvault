@@ -1,5 +1,12 @@
 # Tranchess cloned contract by wayacoin
 
+
+MAIN TASK
+
+identify the Staking and governace contracts/directories and files related to those attributes. migratea and configure to new contract in testnet
+
+
+
 Tranchess core.
 
 # Local Development
