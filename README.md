@@ -3,7 +3,7 @@
 
 MAIN TASK
 
-identify the Staking and governace contracts/directories and files related to those attributes. migratea and configure to new contract in testnet
+Identify the Staking and governace contracts/directories and files related to those attributes. migrate and configure to new contract in testnet
 
 
 
